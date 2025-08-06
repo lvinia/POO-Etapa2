@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 935988bfe689c8a4f911f35d32ed30e3
+guid: db7e1a4cccdeb4749beb3b7610756e07
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 690243772044861111
-    second: 1-3_0
+      213: -7203981803756662424
+    second: sEnemyDead_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -100,23 +100,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 1-3_0
+      name: sEnemyDead_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 36
-        height: 39
+        x: 4
+        y: 4
+        width: 33
+        height: 25
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 6, y: 9, z: 6, w: 9}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7bed829bd0d349900800000000000000
-      internalID: 690243772044861111
+      spriteID: 861d4b2c7b0560c90800000000000000
+      internalID: -7203981803756662424
       vertices: []
       indices: 
       edges: []
@@ -125,7 +125,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: ea74a5b16a4814d419ca09a62f43508e
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      1-3_0: 690243772044861111
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
